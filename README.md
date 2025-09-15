@@ -13,6 +13,7 @@ I love learning new technologies, solving problems, and exploring open-source pr
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Kotlin <br>
+✅ Xml <br>
 ✅ JavaScript <br>
 ✅ Python 🐍 <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
