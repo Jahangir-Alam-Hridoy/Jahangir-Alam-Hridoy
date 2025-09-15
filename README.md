@@ -1,6 +1,6 @@
 ## Hi, I’m Jahangir Alam 👋
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+[<img src='https://github.com/Jahangir-Alam-Hridoy/Jahangir-Alam-Hridoy/blob/main/image/ProfileBanner.png?raw=true' alt='Jahangir Alam'>](https://github.com/Jahangir-Alam-Hridoy/)
 
 ## 💫 About Me
 
@@ -17,11 +17,11 @@ I love learning new technologies, solving problems, and exploring open-source pr
 ✅ Python 🐍 <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
 
-![Python](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahangir-Alam-Hridoy)](https://github.com/anuraghazra/github-readme-stats)
