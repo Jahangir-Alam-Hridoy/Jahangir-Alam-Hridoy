@@ -1,5 +1,7 @@
 ## Hi, I’m Jahangir Alam 👋
 
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ## 💫 About Me
 
 I am an Android App Developer 📱 and Frontend Web Developer 🌐. I also enjoy working with Python 🐍 for scripting and small projects.
