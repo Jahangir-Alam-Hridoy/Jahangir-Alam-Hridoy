@@ -8,7 +8,7 @@ I am an Android App Developer 📱 and Frontend Web Developer 🌐. I also enjoy
 
 My main skills include Android Development with Kotlin and Jetpack Compose, Frontend Web with HTML, CSS, JavaScript, and Python scripting & automation.
 
-I love learning new technologies, solving problems, and exploring open-source projects 🚀. Currently, I’m focused on improving my Android and web development skills.
+I love learning new technologies, solving problems, and exploring open-source projects 🚀. Currently, I’m focused on improving my Android App development skill.
 
 
 ## 👨‍💻 Skills & Experiance: 
