@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-[<img src='https://github.com/Jahangir-Alam-Hridoy/Jahangir-Alam-Hridoy/blob/main/image/Profile_Banner.png?raw=true' alt='Jahangir Alam'>](https://github.com/Jahangir-Alam-Hridoy/)
+[<img src='https://github.com/Jahangir-Alam-Hridoy/Jahangir-Alam-Hridoy/blob/main/image/Profile_banner.png?raw=true' alt='Jahangir Alam'>](https://github.com/Jahangir-Alam-Hridoy/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahangir-alam-hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="jahangir-alam-hridoy" /> </p>
